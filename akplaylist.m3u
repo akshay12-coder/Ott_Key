@@ -120,10 +120,10 @@ http://103.182.170.32:8888/play/a04e
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/7hVCMDyZ/dd-sports.jpg",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
 
-#EXTINF:-1 tvg-id="1002" group-title="Business News" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png",CNBC Tv18 Prime HD
+#EXTINF:-1 tvg-id="1010" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=810f0869e10c537891203cc70315dd6d:b8f7d22abf86cf12444a848ed5dbec13
+#KODIPROP:inputstream.adaptive.license_key=d9025bf5bbe6502cab58edaa0b50750b:91b5ca6ebefe3a977cb6fcae31868664
 #EXTVLCOPT:http-user-agent=@allinone_reborn
 #EXTHTTP:{"cookie":"__hdnea__=st=1769475199~exp=1769561599~acl=/*~hmac=6a5c5cf859d45b5f038a0f9322ced0c7262e07f43989cc6855c8f1d827df2868"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/CNBC_Tv18_Prime_HD_BTS/output/index.mpd?__hdnea__=st=1769475199~exp=1769561599~acl=/*~hmac=6a5c5cf859d45b5f038a0f9322ced0c7262e07f43989cc6855c8f1d827df2868
+https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsHD_BTS/output/index.mpd?__hdnea__=st=1769475199~exp=1769561599~acl=/*~hmac=6a5c5cf859d45b5f038a0f9322ced0c7262e07f43989cc6855c8f1d827df2868
 

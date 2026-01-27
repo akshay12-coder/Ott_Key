@@ -127,3 +127,16 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 #EXTHTTP:{"cookie":"__hdnea__=st=1769475199~exp=1769561599~acl=/*~hmac=6a5c5cf859d45b5f038a0f9322ced0c7262e07f43989cc6855c8f1d827df2868"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsHD_BTS/output/index.mpd?__hdnea__=st=1769475199~exp=1769561599~acl=/*~hmac=6a5c5cf859d45b5f038a0f9322ced0c7262e07f43989cc6855c8f1d827df2868
 
+#EXTINF:-1 tvg-id="18283d4f5f13c0cac5cab4433a0ed8f0" tvg-logo="https://nettv.fun/playlist/bdix/logo/25.png" group-title="sports",star sports 1
+https://mspannel.top/stream/rz/stream.php?id=18283d4f5f13c0cac5cab4433a0ed8f0&e=.m3u8
+
+#EXTINF:-1 tvg-id="1e8e3ca973f7808849df688219554a90" tvg-logo="https://nettv.fun/playlist/bdix/logo/26.png" group-title="sports",star sports 2
+https://mspannel.top/stream/rz/stream.php?id=1e8e3ca973f7808849df688219554a90&e=.m3u8
+
+#EXTINF:-1 tvg-id="b8966a010354b3b97eb8c050ea73460f" tvg-logo="https://nettv.fun/playlist/bdix/logo/27.png" group-title="sports",star sports select 1
+https://mspannel.top/stream/rz/stream.php?id=b8966a010354b3b97eb8c050ea73460f&e=.m3u8
+
+#EXTINF:-1 tvg-id="cf33278a403f3b61fc708fb1cc2676df" tvg-logo="https://nettv.fun/playlist/bdix/logo/28.png" group-title="sports",star sports select 2
+https://mspannel.top/stream/rz/stream.php?id=cf33278a403f3b61fc708fb1cc2676df&e=.m3u8
+
+

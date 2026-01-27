@@ -68,7 +68,7 @@ https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=17
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1769517001~acl=/*~id=93000170722074591224925162627846~hmac=a7d455d33181858edfa69259555f7de94af191a1043783600d5c92cf01e44b89
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://tvassets.roarzone.info/images/102.png",T Sports
-https://edge2.roarzone.info:444/roarzone/edge2/tsports/index.m3u8?token=03e6a8c6ce936319f81b1c966a0589a77a8a8b79-befc254994b3cd8bb9eac9b19a9193b9-1769513266-1769502466
+http://51.15.8.16:8081/ind1live/starsports2/playlist.m3u8
 #EXTINF:-1 group-title="sports" tvg-logo="https://tvassets.roarzone.info/images/25.png",Star Sports 1
 https://edge2.roarzone.info:444/roarzone/edge2/star-sports-1/index.m3u8?token=2f1e2d93f95fff32a4a43334f2af0fcf5cbab7a5-c4c2eb2f544cb2d2d7d8f297bdcf2404-1769513266-1769502466
 #EXTINF:-1 group-title="sports" tvg-logo="https://tvassets.roarzone.info/images/26.png",Star Sports 2
@@ -120,12 +120,6 @@ http://103.182.170.32:8888/play/a04e
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/7hVCMDyZ/dd-sports.jpg",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
 
-#EXTINF:-1 tvg-id="1010" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9025bf5bbe6502cab58edaa0b50750b:91b5ca6ebefe3a977cb6fcae31868664
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-#EXTHTTP:{"cookie":"__hdnea__=st=1769475199~exp=1769561599~acl=/*~hmac=6a5c5cf859d45b5f038a0f9322ced0c7262e07f43989cc6855c8f1d827df2868"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsHD_BTS/output/index.mpd?__hdnea__=st=1769475199~exp=1769561599~acl=/*~hmac=6a5c5cf859d45b5f038a0f9322ced0c7262e07f43989cc6855c8f1d827df2868
 
 #EXTINF:-1 tvg-id="18283d4f5f13c0cac5cab4433a0ed8f0" tvg-logo="https://nettv.fun/playlist/bdix/logo/25.png" group-title="sports",star sports 1
 https://mspannel.top/stream/rz/stream.php?id=18283d4f5f13c0cac5cab4433a0ed8f0&e=.m3u8
@@ -181,4 +175,5 @@ https://in-mc-fdlive.fancode.com/mumbai/139883_english_hls_9e58dfaf8f45377_1ta-d
 https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8
 
 http://51.15.8.16:8081/ind1live/starsports2/playlist.m3u8
+
 

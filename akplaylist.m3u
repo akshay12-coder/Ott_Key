@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1 tvg-id="1017" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",SET HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f5c58e6bf0a2deb018fe87a934a6a1d0:ebd37e936867596a868cc085070e4cd5
@@ -215,5 +217,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/SonyPIX_MOB/WDVLive/index.mpd?__hdnea__=s
 #EXTVLCOPT:http-user-agent=@allinone_reborn
 #EXTHTTP:{"cookie":"__hdnea__=st=1769475199~exp=1769561599~acl=/*~hmac=6a5c5cf859d45b5f038a0f9322ced0c7262e07f43989cc6855c8f1d827df2868"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_BTS/output/index.mpd?__hdnea__=st=1769475199~exp=1769561599~acl=/*~hmac=6a5c5cf859d45b5f038a0f9322ced0c7262e07f43989cc6855c8f1d827df2868
+
 
 

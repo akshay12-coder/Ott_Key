@@ -67,4 +67,26 @@ https://dishmt.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8?hdnea=exp=17
 #EXTINF:-1 tvg-id="bbc-earth" tvg-name="BBC EARTH" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="SONYLIV" tvg-language="English",BBC EARTH
 https://dishmt.slivcdn.com/hls/live/2011907-b/SonyBBCEarthHD/master.m3u8?hdnea=exp=1769517001~acl=/*~id=93000170722074591224925162627846~hmac=a7d455d33181858edfa69259555f7de94af191a1043783600d5c92cf01e44b89
 
+#EXTINF:-1 group-title="sports" tvg-logo="https://tvassets.roarzone.info/images/102.png",T Sports
+https://edge2.roarzone.info:444/roarzone/edge2/tsports/index.m3u8?token=03e6a8c6ce936319f81b1c966a0589a77a8a8b79-befc254994b3cd8bb9eac9b19a9193b9-1769513266-1769502466
+#EXTINF:-1 group-title="sports" tvg-logo="https://tvassets.roarzone.info/images/25.png",Star Sports 1
+https://edge2.roarzone.info:444/roarzone/edge2/star-sports-1/index.m3u8?token=2f1e2d93f95fff32a4a43334f2af0fcf5cbab7a5-c4c2eb2f544cb2d2d7d8f297bdcf2404-1769513266-1769502466
+#EXTINF:-1 group-title="sports" tvg-logo="https://tvassets.roarzone.info/images/26.png",Star Sports 2
+https://edge2.roarzone.info:444/roarzone/edge2/star-sports-2/index.m3u8?token=7f936ef244ad7fddec8d0e341b50e00db8281ba7-abf96a5bb4c6ea7bcb8ce76e607c9c7b-1769513266-1769502466
+#EXTINF:-1 group-title="sports" tvg-logo="https://tvassets.roarzone.info/images/20.png",Sony Ten 1
+https://edge2.roarzone.info:444/roarzone/edge2/sony-sports-1-hd/index.m3u8?token=88bd531a642041d7b5e37c0813ca77fac87892e4-0403f73c56fe3e664a05fc2b15a8b5cf-1769513266-1769502466
+#EXTINF:-1 group-title="sports" tvg-logo="https://tvassets.roarzone.info/images/21.png",Sony Ten 2
+https://edge2.roarzone.info:444/roarzone/edge2/sony-sports-2-hd/index.m3u8?token=4e69d5a920d9f58691b4dcc815a9072ff480c8b0-34487840f1ed6cd0cf549a2936886b98-1769513266-1769502466
+#EXTINF:-1 group-title="sports" tvg-logo="https://tvassets.roarzone.info/images/22.png",Sony Ten 3
+https://edge2.roarzone.info:444/roarzone/edge2/sony-sports-3-hd/index.m3u8?token=ec8e29ae213ed4220faa94df7acb4818100b9fd3-abf46f698dcfab7ade74e9e8d8813c65-1769513266-1769502466
+#EXTINF:-1 group-title="sports" tvg-logo="https://tvassets.roarzone.info/images/24.png",Sony SIX
+https://edge2.roarzone.info:444/roarzone/edge2/sony-sports-5-hd/index.m3u8?token=9e3c366a4dfb8a77384c525c621ec4513cf4e725-92179f3bbb9492aadeecfc57dbc48abe-1769513266-1769502466
+#EXTINF:-1 group-title="sports" tvg-logo="https://tvassets.roarzone.info/images/27.png",Star Sports Select 1
+https://edge2.roarzone.info:444/roarzone/edge2/star-sports-select-1/index.m3u8?token=06ad9d5d82290063ec01da4e995420117338051c-842c1af148b102264c12655ea4764435-1769513266-1769502466
+#EXTINF:-1 group-title="sports" tvg-logo="https://tvassets.roarzone.info/images/28.png",Star Sports Select 2
+https://edge2.roarzone.info:444/roarzone/edge2/star-sports-select-2/index.m3u8?token=abf4f7eca105a3f854258b629d83e794341a0e4b-88c370db7a64e2688179cd0f1cee1ba9-1769513266-1769502466
+#EXTINF:-1 group-title="sports" tvg-logo="https://tvassets.roarzone.info/images/euro_sports_hd.png",Euro Sports
+https://edge2.roarzone.info:444/roarzone/toffee/euro_sports_hd/index.m3u8?token=10216f336141ce1754e071f16b0c54248a959eb3-041cb7b4357e8ca219d0d41d79c3266b-1769513266-1769502466
+#EXTINF:-1 group-title="sports" tvg-logo="https://tvassets.roarzone.info/images/ten_cricket.png",Ten Cricket
+https://edge2.roarzone.info:444/roarzone/toffee/ten_cricket/index.m3u8?token=07548aa5b69256d7d1785d345459c4462a7f1337-aaff6536c193c3514692becbaf3d236a-1769513266-1769502466
 

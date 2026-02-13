@@ -114,7 +114,8 @@ https://edge2.roarzone.info:444/roarzone/toffee/pogo_sd/index.m3u8?token=b112266
 http://103.229.254.25:7001/play/a09s/index.m3u8
 #EXTINF:-1 tvg-logo="www.omnix.png",Star Sports 1 Hindi HD - Rs 19.00
 http://116.90.120.149:8000/play/a0ba/index.m3u8
-
+#EXTINF:-1 ,SONY SAB
+http://103.175.73.12:8080/live/6/6_0.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/7hVCMDyZ/dd-sports.jpg",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
@@ -174,6 +175,7 @@ https://in-mc-fdlive.fancode.com/mumbai/139883_english_hls_9e58dfaf8f45377_1ta-d
 https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8
 
 http://51.15.8.16:8081/ind1live/starsports2/playlist.m3u8
+
 
 
 

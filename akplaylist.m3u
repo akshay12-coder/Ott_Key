@@ -5,8 +5,7 @@
 https://dishmt.slivcdn.com/hls/live/2011671-b/SETHD/master.m3u8?hdnea=exp=1769538602~acl=/*~id=34445882892733972030681393858708~hmac=b9cab7dd6db42f85c4970b03458aab3aed4831e1db6627df4ff1212f167404e8
 
 #EXTINF:-1 tvg-id="sab-hd" tvg-name="SAB HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="SONYLIV" tvg-language="Hindi",SAB HD
-https://dishmt.slivcdn.com/hls/live/2011749-b/SABHD/master.m3u8?hdnea=exp=1769538602~acl=/*~id=34445882892733972030681393858708~hmac=b9cab7dd6db42f85c4970b03458aab3aed4831e1db6627df4ff1212f167404e8
-
+http://103.175.73.12:8080/live/6/6_0.m3u8
 #EXTINF:-1 tvg-id="sony-marathi" tvg-name="SONY MARATHI" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="SONYLIV" tvg-language="Marathi",SONY MARATHI
 https://dishmt.slivcdn.com/hls/live/2011740-b/SonyMarathi/master.m3u8?hdnea=exp=1769538602~acl=/*~id=34445882892733972030681393858708~hmac=b9cab7dd6db42f85c4970b03458aab3aed4831e1db6627df4ff1212f167404e8
 
@@ -35,7 +34,7 @@ https://dishmt.slivcdn.com/hls/live/2011908-b/MAX2/master.m3u8?hdnea=exp=1769538
 https://dishmt.slivcdn.com/hls/live/2011748-b/PIXHD/master.m3u8?hdnea=exp=1769538602~acl=/*~id=34445882892733972030681393858708~hmac=b9cab7dd6db42f85c4970b03458aab3aed4831e1db6627df4ff1212f167404e8
 
 #EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-name="SONY TEN 1 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SONYLIV" tvg-language="English",SONY TEN 1 HD
-https://dishmt.slivcdn.com/hls/live/2011747-b/TEN1HD/master.m3u8?hdnea=exp=1769538602~acl=/*~id=34445882892733972030681393858708~hmac=b9cab7dd6db42f85c4970b03458aab3aed4831e1db6627df4ff1212f167404e8
+http://103.175.73.12:8080/live/70/70_0.m3u8
 
 #EXTINF:-1 tvg-id="sony-ten-1" tvg-name="SONY TEN 1" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png" group-title="SONYLIV" tvg-language="English",SONY TEN 1
 https://dishmt.slivcdn.com/hls/live/2011739-b/TEN1SD/master.m3u8?hdnea=exp=1769538602~acl=/*~id=34445882892733972030681393858708~hmac=b9cab7dd6db42f85c4970b03458aab3aed4831e1db6627df4ff1212f167404e8
@@ -175,6 +174,7 @@ https://in-mc-fdlive.fancode.com/mumbai/139883_english_hls_9e58dfaf8f45377_1ta-d
 https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8
 
 http://51.15.8.16:8081/ind1live/starsports2/playlist.m3u8
+
 
 
 

@@ -1439,25 +1439,23 @@ http://103.175.73.12:8080/live/734/734_0.m3u8
 
 #EXTINF:-1 group-title="Live Channels",Channel 736
 http://103.175.73.12:8080/live/736/736_0.m3u8
-
 #EXTINF:-1 group-title="Live Channels",Channel 738
 http://103.175.73.12:8080/live/738/738_0.m3u8
-
 #EXTINF:-1 group-title="Live Channels",Channel 740
 http://103.175.73.12:8080/live/740/740_0.m3u8
 #EXTINF:-1 group-title="Live Channels",Channel 741
-http://103.229.254.25:7001/play/a09s/index.m3u8
-
+https://edge2.roarzone.info:8445/roarzone/edge3/sony-sab-hd/index.m3u8?token=0982bf33c09dd53b9ed66c9b70468d0b27b6742c-b40e889e75902fe144b94b76faa4a8d0-1771318865-1771315265
 #EXTINF:-1 group-title="Live Channels",Channel 742
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
-
 #EXTINF:-1 group-title="Live Channels",Channel 743
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 #EXTINF:-1 group-title="Live Channels",Channel 744
-https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
+https://edge2.roarzone.info:8445/roarzone/edge3/sony-ten-cricket/index.m3u8?token=2970366bcf31bf6589cf281b9ce9c0ef88f1195b-e396e7205677645bfbc1f53799f1fdd0-1771318865-1771315265
 #EXTINF:-1 group-title="Live Channels",Channel 745
 https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 #EXTINF:-1 group-title="Live Channels",Channel 746
 https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
-
-
+#EXTINF:-1 group-title="Live Channels",Channel 747
+https://edge2.roarzone.info:8445/roarzone/edge3/cartoon-network-hd/index.m3u8?token=cd254385d0171d3fc8fd2980f287b198afc424f4-f9a5553555f59349de54432d173166c1-1771318865-1771315265
+#EXTINF:-1 group-title="Live Channels",Channel 748
+https://edge2.roarzone.info:8445/roarzone/edge2/tsports/index.m3u8?token=9e7c3f8b49bdc77eb5fd91ad8edc762cc8a90b23-237468cb69c463a7270668342bc13e16-1771318865-1771315265

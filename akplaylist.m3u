@@ -1443,7 +1443,7 @@ http://103.175.73.12:8080/live/738/738_0.m3u8
 #EXTINF:-1 group-title="Live Channels",Channel 740
 http://103.175.73.12:8080/live/740/740_0.m3u8
 #EXTINF:-1 group-title="Live Channels",Channel 741
-https://edge2.roarzone.info:8445/roarzone/edge3/sony-sab-hd/index.m3u8?token=0982bf33c09dd53b9ed66c9b70468d0b27b6742c-b40e889e75902fe144b94b76faa4a8d0-1771318865-1771315265
+https://edge2.roarzone.info:8445/roarzone/edge3/sony-sab-hd/index.m3u8?token=9e59cd814e5029793c6308064881ca77bfcf4dce-36faf96b248837161abcbee5d24e0316-1771322460-1771318860
 #EXTINF:-1 group-title="Live Channels",Channel 742
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 #EXTINF:-1 group-title="Live Channels",Channel 743
@@ -1453,13 +1453,15 @@ https://edge2.roarzone.info:8445/roarzone/edge3/sony-ten-cricket/index.m3u8?toke
 #EXTINF:-1 group-title="Live Channels",Channel 745
 https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 #EXTINF:-1 group-title="Live Channels",Channel 746
-https://edge2.roarzone.info:8445/roarzone/edge3/star-sports-1/index.m3u8?token=b716e8d7f7e00d34c897946a171d1d05496a05f1-40d12396c2fdb0deca351167973457fe-1771318865-1771315265
+https://edge2.roarzone.info:8445/roarzone/edge2/star-sports-1/index.m3u8?token=5b5edc03edcaf17805570ccb09bdece06a062109-35177bc6312e0678f31d4c75b5ba4a91-1771322460-1771318860
+
 #EXTINF:-1 group-title="Live Channels",Channel 747
 https://edge2.roarzone.info:8445/roarzone/edge3/cartoon-network-hd/index.m3u8?token=cd254385d0171d3fc8fd2980f287b198afc424f4-f9a5553555f59349de54432d173166c1-1771318865-1771315265
 #EXTINF:-1 group-title="Live Channels",Channel 748
-https://edge2.roarzone.info:8445/roarzone/edge3/euro-sport-hd/index.m3u8?token=65ddd0b4eee9658ce06dba9cb8d587bb1324ebfb-211ecd432e82b074934fc964ad3302fc-1771318865-1771315265
+https://edge2.roarzone.info:8445/roarzone/edge3/euro-sport-hd/index.m3u8?token=cdf33ac7468d8774cc382d170c8d0933af5167ea-1d0066bd8eef3acb6514b4a775fa15b9-1771322460-1771318860
 #EXTINF:-1 group-title="Live Channels",Channel 749
-https://edge2.roarzone.info:8445/roarzone/edge2/star-sports-1/index.m3u8?token=b716e8d7f7e00d34c897946a171d1d05496a05f1-40d12396c2fdb0deca351167973457fe-1771318865-1771315265
+https://edge2.roarzone.info:8445/roarzone/edge2/star-sports-2/index.m3u8?token=3259c3804489a05140aa0a3cceb99517cd9569cf-24478c0799d39eff745f7466d73f091c-1771322460-1771318860
+
 
 
 

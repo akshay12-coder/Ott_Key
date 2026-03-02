@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 group-title="Live Channels",Channel 1
+http://103.229.254.25:7001/play/a0dd/index.m3u8
+
+#EXTINF:-1 group-title="Live Channels",Channel 2
+http://103.229.254.25:7001/play/a032/index.m3u8
+
+#EXTINF:-1 group-title="Live Channels",Channel 3
+http://111.88.78.21:8000/play/a0ph/index.m3u8
 http://103.229.254.25:7001/play/a0dd/index.m3u8
 http://103.229.254.25:7001/play/a032/index.m3u8
 http://111.88.78.21:8000/play/a0ph/index.m3u8
@@ -136,4 +144,5 @@ https://banjartv.siar.us/banjartv/live/playlist.m3u8
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
 http://122.248.43.242:1935/BATAMTV/_definst_/myStream
+
 

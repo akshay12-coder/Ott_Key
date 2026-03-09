@@ -1,70 +1,86 @@
 #EXTM3U
-http://103.182.170.32:8888/play/a02a
-http://103.182.170.32:8888/play/a03v
-http://103.182.170.32:8888/play/a049
-http://103.182.170.32:8888/play/a04k
-http://103.182.170.32:8888/play/a04o
-http://103.182.170.32:8888/play/a035
-http://103.182.170.32:8888/play/a04a
-http://103.182.170.32:8888/play/a01o
-http://103.182.170.32:8888/play/a04i
-http://103.182.170.32:8888/play/a041
-http://103.182.170.32:8888/play/a02o
-http://103.182.170.32:8888/play/a04g
-http://103.182.170.32:8888/play/a01y
-http://103.182.170.32:8888/play/a03q
-http://103.182.170.32:8888/play/a022
-http://103.182.170.32:8888/play/a04b
-http://103.182.170.32:8888/play/a025
-http://103.182.170.32:8888/play/a01n
-http://103.182.170.32:8888/play/a01r
-http://103.182.170.32:8888/play/a04q
-http://103.182.170.32:8888/play/a02q
-http://103.182.170.32:8888/play/a02p
-http://103.182.170.32:8888/play/a03t
-http://103.182.170.32:8888/play/a03a
-http://103.182.170.32:8888/play/a034
-http://103.182.170.32:8888/play/a02l
-http://103.182.170.32:8888/play/a04f
-http://103.182.170.32:8888/play/a027
-http://103.182.170.32:8888/play/a03r
-http://103.182.170.32:8888/play/a04j
-http://103.182.170.32:8888/play/a03p
-http://103.182.170.32:8888/play/a039
-http://103.182.170.32:8888/play/a04m
-http://103.182.170.32:8888/play/a02j
-http://103.182.170.32:8888/play/a029
-http://103.182.170.32:8888/play/a028
-http://103.182.170.32:8888/play/a03o
-http://103.182.170.32:8888/play/a03z
-http://103.182.170.32:8888/play/a02s
-http://103.182.170.32:8888/play/a036
-http://103.182.170.32:8888/play/a04p
-http://103.182.170.32:8888/play/a02i
-http://103.182.170.32:8888/play/a02n
-http://103.182.170.32:8888/play/a033
-http://103.182.170.32:8888/play/a02k
-http://103.182.170.32:8888/play/a01z
-http://103.182.170.32:8888/play/a046
-http://103.182.170.32:8888/play/a020
-http://103.182.170.32:8888/play/a04n
-http://103.182.170.32:8888/play/a03b
-http://103.182.170.32:8888/play/a040
-http://103.182.170.32:8888/play/a02m
-http://103.182.170.32:8888/play/a04e
-http://103.182.170.32:8888/play/a03e
-http://103.182.170.32:8888/play/a045
-http://103.182.170.32:8888/play/a047
-http://103.182.170.32:8888/play/a01v
-http://103.182.170.32:8888/play/a03f
-http://103.182.170.32:8888/play/a026
-http://103.182.170.32:8888/play/a01q
-http://103.182.170.32:8888/play/a01x
-http://103.182.170.32:8888/play/a044
-http://103.182.170.32:8888/play/a048
-http://103.182.170.32:8888/play/a02r
-http://103.182.170.32:8888/play/a01w
-http://103.182.170.32:8888/play/a054
-http://103.182.170.32:8888/play/a03s
-http://103.182.170.32:8888/play/a04r
+language="Gujarati" tvg-type="News" group-title="News", Janadesh News
+http://192.168.0.222:5001/live/3023.m3u8
+#EXTINF:-1 tvg-id=3024 tvg-name="India TV Yoga Channel" tvg-logo="http://192.168.0.222:5001/jtvimage/IndiaTV_Yoga.png" tvg-language="Hindi" tvg-type="News" group-title="News", India TV Yoga Channel
+http://192.168.0.222:5001/live/3024.m3u8
+#EXTINF:-1 tvg-id=3025 tvg-name="India TV Aap Ki Adalat" tvg-logo="http://192.168.0.222:5001/jtvimage/Aap_Ki_Adalat.png" tvg-language="Hindi" tvg-type="News" group-title="News", India TV Aap Ki Adalat
+http://192.168.0.222:5001/live/3025.m3u8
+#EXTINF:-1 tvg-id=3026 tvg-name="India TV Speed News" tvg-logo="http://192.168.0.222:5001/jtvimage/Speed_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", India TV Speed News
+http://192.168.0.222:5001/live/3026.m3u8
+#EXTINF:-1 tvg-id=3027 tvg-name="Desh News" tvg-logo="http://192.168.0.222:5001/jtvimage/Desh_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Desh News
+http://192.168.0.222:5001/live/3027.m3u8
+#EXTINF:-1 tvg-id=3028 tvg-name="BH Style Icons" tvg-logo="http://192.168.0.222:5001/jtvimage/BHStyle_Icon.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", BH Style Icons
+http://192.168.0.222:5001/live/3028.m3u8
+#EXTINF:-1 tvg-id=3029 tvg-name="Bollywood Masala" tvg-logo="http://192.168.0.222:5001/jtvimage/bollywoodmasala.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Bollywood Masala
+http://192.168.0.222:5001/live/3029.m3u8
+#EXTINF:-1 tvg-id=3037 tvg-name="Kalyan TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Kalyan_TV.png" tvg-language="Gujarati" tvg-type="Devotional" group-title="Devotional", Kalyan TV
+http://192.168.0.222:5001/live/3037.m3u8
+#EXTINF:-1 tvg-id=3038 tvg-name="Amritwani TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Amritwani_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Amritwani TV
+http://192.168.0.222:5001/live/3038.m3u8
+#EXTINF:-1 tvg-id=3039 tvg-name="Garvi Gujarat" tvg-logo="http://192.168.0.222:5001/jtvimage/Garvi_Gujarat.png" tvg-language="Hindi" tvg-type="News" group-title="News", Garvi Gujarat
+http://192.168.0.222:5001/live/3039.m3u8
+#EXTINF:-1 tvg-id=3041 tvg-name="Bharat TV24" tvg-logo="http://192.168.0.222:5001/jtvimage/Bharat_TV24.png" tvg-language="Hindi" tvg-type="News" group-title="News", Bharat TV24
+http://192.168.0.222:5001/live/3041.m3u8
+#EXTINF:-1 tvg-id=3042 tvg-name="News 24x7" tvg-logo="http://192.168.0.222:5001/jtvimage/News_24x7.png" tvg-language="Hindi" tvg-type="News" group-title="News", News 24x7
+http://192.168.0.222:5001/live/3042.m3u8
+#EXTINF:-1 tvg-id=3043 tvg-name="Prime Asia HD" tvg-logo="http://192.168.0.222:5001/jtvimage/Prime_Asia_HD.png" tvg-language="Punjabi" tvg-type="News" group-title="News", Prime Asia HD
+http://192.168.0.222:5001/live/3043.m3u8
+#EXTINF:-1 tvg-id=3044 tvg-name="Gramin Drishti" tvg-logo="http://192.168.0.222:5001/jtvimage/Gramin_Drishti.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Gramin Drishti
+http://192.168.0.222:5001/live/3044.m3u8
+#EXTINF:-1 tvg-id=3048 tvg-name="BVG" tvg-logo="http://192.168.0.222:5001/jtvimage/BVG.png" tvg-language="Hindi" tvg-type="Educational" group-title="Educational", BVG
+http://192.168.0.222:5001/live/3048.m3u8
+#EXTINF:-1 tvg-id=3049 tvg-name="TNI Awaaz" tvg-logo="http://192.168.0.222:5001/jtvimage/TNI_Awaaz.png" tvg-language="Hindi" tvg-type="News" group-title="News", TNI Awaaz
+http://192.168.0.222:5001/live/3049.m3u8
+#EXTINF:-1 tvg-id=3050 tvg-name="Indian News" tvg-logo="http://192.168.0.222:5001/jtvimage/Indian_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Indian News
+http://192.168.0.222:5001/live/3050.m3u8
+#EXTINF:-1 tvg-id=3052 tvg-name="Shresth Bharat" tvg-logo="http://192.168.0.222:5001/jtvimage/Shresth_Bharat.png" tvg-language="Hindi" tvg-type="News" group-title="News", Shresth Bharat
+http://192.168.0.222:5001/live/3052.m3u8
+#EXTINF:-1 tvg-id=3053 tvg-name="TNP News" tvg-logo="http://192.168.0.222:5001/jtvimage/TNP_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", TNP News
+http://192.168.0.222:5001/live/3053.m3u8
 
+#EXTINF:-1 tvg-id=3058 tvg-name="News Capital Gujarat" tvg-logo="http://192.168.0.222:5001/jtvimage/NewsCapital_Gujarat.png" tvg-language="Gujarati" tvg-type="News" group-title="News", News Capital Gujarat
+http://192.168.0.222:5001/live/3058.m3u8
+
+#EXTINF:-1 tvg-id=3061 tvg-name="Desi Tashan TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Desi_Tashan_TV.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Infotainment", Desi Tashan TV
+http://192.168.0.222:5001/live/3061.m3u8
+
+#EXTINF:-1 tvg-id=3063 tvg-name="PR News" tvg-logo="http://192.168.0.222:5001/jtvimage/PR_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", PR News
+http://192.168.0.222:5001/live/3063.m3u8
+#EXTINF:-1 tvg-id=3064 tvg-name="Navsarjan Sanskruti News" tvg-logo="http://192.168.0.222:5001/jtvimage/Nav_Sanskruti_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Navsarjan Sanskruti News
+http://192.168.0.222:5001/live/3064.m3u8
+#EXTINF:-1 tvg-id=3065 tvg-name="Bharat Nation" tvg-logo="http://192.168.0.222:5001/jtvimage/Bharat_Nation.png" tvg-language="Hindi" tvg-type="News" group-title="News", Bharat Nation
+http://192.168.0.222:5001/live/3065.m3u8
+#EXTINF:-1 tvg-id=3066 tvg-name="Today 24 News UPUK" tvg-logo="http://192.168.0.222:5001/jtvimage/Today_TV24_UPUK.png" tvg-language="Hindi" tvg-type="News" group-title="News", Today 24 News UPUK
+http://192.168.0.222:5001/live/3066.m3u8
+#EXTINF:-1 tvg-id=3067 tvg-name="India Superfast" tvg-logo="http://192.168.0.222:5001/jtvimage/India_Superfast.png" tvg-language="Hindi" tvg-type="News" group-title="News", India Superfast
+http://192.168.0.222:5001/live/3067.m3u8
+#EXTINF:-1 tvg-id=3068 tvg-name="Bharat Update" tvg-logo="http://192.168.0.222:5001/jtvimage/Bharat_Update.png" tvg-language="Hindi" tvg-type="News" group-title="News", Bharat Update
+http://192.168.0.222:5001/live/3068.m3u8
+#EXTINF:-1 tvg-id=3070 tvg-name="Vistaar News" tvg-logo="http://192.168.0.222:5001/jtvimage/Vistaar_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", Vistaar News
+http://192.168.0.222:5001/live/3070.m3u8
+#EXTINF:-1 tvg-id=3071 tvg-name="TV Asia Powered by Shemaroo" tvg-logo="http://192.168.0.222:5001/jtvimage/TV_Asia.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", TV Asia Powered by Shemaroo
+http://192.168.0.222:5001/live/3071.m3u8
+
+
+#EXTINF:-1 tvg-id=3076 tvg-name="India Prime News" tvg-logo="http://192.168.0.222:5001/jtvimage/India_Prime_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", India Prime News
+http://192.168.0.222:5001/live/3076.m3u8
+#EXTINF:-1 tvg-id=3085 tvg-name="SACH BEDHADAK" tvg-logo="http://192.168.0.222:5001/jtvimage/Sach_Bedhadak.png" tvg-language="Hindi" tvg-type="News" group-title="News", SACH BEDHADAK
+http://192.168.0.222:5001/live/3085.m3u8
+#EXTINF:-1 tvg-id=3086 tvg-name="Naxatra News Hindi" tvg-logo="http://192.168.0.222:5001/jtvimage/Naxatra_News_Hindi.png" tvg-language="Hindi" tvg-type="News" group-title="News", Naxatra News Hindi
+http://192.168.0.222:5001/live/3086.m3u8
+#EXTINF:-1 tvg-id=3088 tvg-name="Sun Neo HD" tvg-logo="http://192.168.0.222:5001/jtvimage/SUN_Neo.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sun Neo HD
+http://192.168.0.222:5001/live/3088.m3u8
+#EXTINF:-1 tvg-id=3089 tvg-name="Sangam TV" tvg-logo="http://192.168.0.222:5001/jtvimage/sangamtv.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Sangam TV
+http://192.168.0.222:5001/live/3089.m3u8
+#EXTINF:-1 tvg-id=3090 tvg-name="KBC News" tvg-logo="http://192.168.0.222:5001/jtvimage/KBC_News.png" tvg-language="Hindi" tvg-type="News" group-title="News", KBC News
+http://192.168.0.222:5001/live/3090.m3u8
+#EXTINF:-1 tvg-id=3103 tvg-name="News UNI" tvg-logo="http://192.168.0.222:5001/jtvimage/News_UNI.png" tvg-language="Hindi" tvg-type="News" group-title="News", News UNI
+http://192.168.0.222:5001/live/3103.m3u8
+#EXTINF:-1 tvg-id=3104 tvg-name="Smriti Patra TV" tvg-logo="http://192.168.0.222:5001/jtvimage/Smriti_Patra.png" tvg-language="Hindi" tvg-type="News" group-title="News", Smriti Patra TV
+http://192.168.0.222:5001/live/3104.m3u8
+#EXTINF:-1 tvg-id=3105 tvg-name="National Tv India" tvg-logo="http://192.168.0.222:5001/jtvimage/National_Tv_India.png" tvg-language="Hindi" tvg-type="News" group-title="News", National Tv India
+http://192.168.0.222:5001/live/3105.m3u8
+#EXTINF:-1 tvg-id=3108 tvg-name="Garvi Gujarat Gujarati" tvg-logo="http://192.168.0.222:5001/jtvimage/Garvi_Gujarat_Gujarati.png" tvg-language="Gujarati" tvg-type="News" group-title="News", Garvi Gujarat Gujarati
+http://192.168.0.222:5001/live/3108.m3u8
+#EXTINF:-1 tvg-id=3110 tvg-name="SB News 24x7" tvg-logo="http://192.168.0.222:5001/jtvimage/SB_News_24x7.png" tvg-language="Hindi" tvg-type="News" group-title="News", SB News 24x7
+http://192.168.0.222:5001/live/3110.m3u8

@@ -1,3 +1,4 @@
+#EXTM3U
 https://in-mc-fdlive.fancode.com/mumbai/141021_english_hls_2d820f94d022891_1ta-di_h264/index.m3u8
 https://in-mc-fdlive.fancode.com/mumbai/141020_english_hls_fd8522fb2483335_1ta-di_h264/index.m3u8
 https://in-mc-fdlive.fancode.com/mumbai/141019_english_hls_30f1562d8498873_1ta-di_h264/index.m3u8
@@ -2101,3 +2102,4 @@ https://livetv-push.hotstar.com/dash/live/2002464-b/sshd1livetvwv/master.mpd?|Co
 https://livetv-push.hotstar.com/dash/live/2002465-b/sshd2livetvwv/master.mpd?|Cookie=hdntl=exp=1773079247~acl=*sshd2livetv*~id=4b42a3bbee4f05ac07ed684c1919dfce~data=hdntl~hmac=e77a08c13b3c789862e9f61e734131c7345c8e41807ebcd865ffa8c9e2077c77&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 https://livetv-push.hotstar.com/dash/live/2002470/ssselecthd1wv/master.mpd?|Cookie=hdntl=exp=1773079250~acl=*ssselecthd1*~id=f24bd0b91390da0300e9c31673ad6c22~data=hdntl~hmac=9b938758b552828c7eb360cb5d9a75d64655cd5085ed2b4cf5519835c0de7780&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
 https://livetv-push.hotstar.com/dash/live/2002471/ssselecthd2wv/master.mpd?|Cookie=hdntl=exp=1773079254~acl=*ssselecthd2*~id=cb15b267128b152522e11f016012a790~data=hdntl~hmac=d33c0336edac648b676aa60768296321343d9c754460c215b300bc34d1e38dc5&User-Agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169%20%28Android%2F15%29
+

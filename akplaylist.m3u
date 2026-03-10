@@ -545,6 +545,9 @@
 #EXTINF:-1 tvg-id="\1" tvg-name="Channel \1" group-title="Live",Channel \1 https://restream-bay.vercel.app/?id=345869&e=.m3u8
 #EXTINF:-1 tvg-id="\1" tvg-name="Channel \1" group-title="Live",Channel \1 https://restream-bay.vercel.app/?id=345870&e=.m3u8
 
+#EXTINF:-1 tvg-id="167567" tvg-name="Channel 167567" group-title="Live",Channel 167567
+https://restream-bay.vercel.app/?id=167567&e=.m3u8
+
 
 
 

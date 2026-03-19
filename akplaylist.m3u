@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="\1" tvg-name="Channel \1" group-title="Live",Channel \1 
-https://restream-bay.vercel.app/?id=167567&e=.m3u8
+https://sonyliv.cr7x.workers.dev/live/gana-sunega/krish-ka/sony-sab.m3u8
 #EXTINF:-1 tvg-id="\1" tvg-name="Channel \1" group-title="Live",Channel \1 
 https://restream-bay.vercel.app/?id=217968&e=.m3u8
 #EXTINF:-1 tvg-id="\1" tvg-name="Channel \1" group-title="Live",Channel \1 

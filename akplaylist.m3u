@@ -3,7 +3,6 @@
 #EXTINF:-1 tvg-id="channel1" tvg-name="Test Channel" group-title="Live",Test Channel
 http://datahub11.com/live/johannes/johannes123/703300.ts
 
-
 #EXTINF:-1 tvg-id="ch1" tvg-name="Channel 1" group-title="Live",Channel 1
 http://datahub11.com/live/johannes/johannes123/705131.ts
 
